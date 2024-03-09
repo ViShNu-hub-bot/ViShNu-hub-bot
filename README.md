@@ -70,8 +70,11 @@
   <img width="390" src="https://github-readme-stats.vercel.app/api?username=ViShNu-hub-bot&count_private=true&theme=react&border_radius=10" alt="readme stats" style="pointer-events: none;"></img>
   <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=ViShNu-hub-bot&count_private=true&theme=react&border_radius=10" alt="streak stats" style="pointer-events: none;"></img>
   <br>
-  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViShNu-hub-bot&langs_count=2&layout=compact&theme=react&border_radius=10&hide=html&exclude_repo=github-readme-stats&hide_border=true&title_color=4CAF50&bg_color=FFFFFF00&text_color=000" alt="top langs" style="pointer-events: none;"></img>
+  <div align="center">
+  <!-- Add a note about the theme contrast -->
+ <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViShNu-hub-bot&langs_count=2&layout=compact&theme=react&border_radius=10&hide=html&exclude_repo=github-readme-stats&hide_border=true&title_color=4CAF50&bg_color=FFFFFF00&text_color=000" alt="top langs" style="pointer-events: none;">
 </div>
+
 
 </div>
 
@@ -95,9 +98,4 @@ font-Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=400
 </a>
 
 <br/>
-
-
-
-
-
 <br/>
