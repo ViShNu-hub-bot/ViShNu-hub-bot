@@ -72,7 +72,7 @@
   <br>
   <div align="center">
   <!-- Add a note about the theme contrast -->
- <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViShNu-hub-bot&langs_count=2&layout=compact&theme=react&border_radius=10&hide=html&exclude_repo=github-readme-stats&hide_border=true&title_color=4CAF50&bg_color=FFFFFF00&text_color=000" alt="top langs" style="pointer-events: none;">
+ <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViShNu-hub-bot&langs_count=2&layout=compact&theme=react&border_radius=10&hide=html&exclude_repo=github-readme-stats&hide_border=true&title_color=4CA1BA&bg_color=FFFFFF00&text_color=4CA1BA" alt="top langs" style="pointer-events: none;">
 </div>
 
 
