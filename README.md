@@ -10,7 +10,7 @@
   <div>
     🔭 I’m currently working on <strong>Predictive Models</strong><br>
     🌱 I’m currently learning <strong>Machine Learning (Pandas, NumPy, scikit-learn)...</strong><br>
-    💬 Ask me about **Python, SQL, Power BI, Tableau, or anything [here](https://github.com/ViShNu-hub-bot)**<br>
+    💬 Ask me about **Python, SQL, Power BI, Tableau, or anything [here](https://github.com/ViShNu-hub-bot)**
     ⚡ Fun fact: <strong>You've read every book in your personal library at least twice!</strong>
   </div>
   <br>
