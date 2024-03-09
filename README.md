@@ -87,11 +87,7 @@
 
 <br/>
 
-<div align="center">
-  <h3 style="color: cyan; background-color: red; padding: 10px;">
-    <span class="typing" style="color: blue;">Connect with me on LinkedIn, Gmail</span>
-  </h3>
-</div>
+
 
 
 
