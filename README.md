@@ -97,9 +97,12 @@
   <a href="mailto:vishnukanthvis@gmail.com" style="margin-right: 10px;"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail"></a>
 </div>
 
-<div align="center">
-  <a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px; pointer-events: none;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-</div>
+<marquee behavior="scroll" direction="left" scrollamount="10">
+  <div align="center">
+    <a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px; pointer-events: none;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+  </div>
+</marquee>
+
 
 
 <br/>
