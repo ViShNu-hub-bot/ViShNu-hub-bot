@@ -1,7 +1,11 @@
-<div align="center">
-  <h1 style="color: cyan; background-color: red; padding: 10px;">Hi There! 👋<br>I'm Vishnukanth K!</h1>
-  <h3>A passionate Data Analyst, Data Scientist, and BI Developer from India</h3>
-  <br>
+<h1 align="center" style="color: cyan; background-color: red; padding: 10px;">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Vishnukanth+K!;">
+</h1>
+
+<h3 align="center">A passionate Data Analyst, Data Scientist, and BI Developer from India </h3>
+
+<br/>
+
   <div>
     🔭 I’m currently working on <strong>Predictive Models</strong><br>
     🌱 I’m currently learning <strong>Machine Learning (Pandas, NumPy, scikit-learn)...</strong><br>
