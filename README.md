@@ -76,6 +76,8 @@
 <div align=center>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=ViShNu-hub-bot&count_private=true&theme=react&border_radius=10" alt="readme stats" />
   <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=ViShNu-hub-bot&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViShNu-hub-bot&langs_count=2&layout=compact&theme=react&border_radius=10&hide=html&exclude_repo=github-readme-stats&hide_border=true&title_color=4CAF50&bg_color=FFFFFF00&text_color=000" alt="top langs" />
+
   <br/>
   
 </div>
