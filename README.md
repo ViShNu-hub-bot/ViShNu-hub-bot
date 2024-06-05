@@ -36,6 +36,10 @@
   <a href="https://vishnukanth.vercel.app" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-lightcoral?style=for-the-badge&logo=V&logoColor=white" />
 </a>
+<a href="https://www.youtube.com/@PowerDashBI1406" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
+
 
 </div>
 
