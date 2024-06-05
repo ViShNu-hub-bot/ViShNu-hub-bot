@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **Machine Learning (Pandas, NumPy, scikit-learn)...**
 
-💬 Ask me about **Python, SQL, Power BI, Tableau, or anything [here](https://github.com/ViShNu-hub-bot)**
+💬 Ask me about **Python, SQL, Power BI, Tableau, or anything [here](https://www.linkedin.com/in/vishnukanth-k-a5552327b/)**
 
 ⚡ Fun fact **You've read every book in your personal library at least twice!**
 
